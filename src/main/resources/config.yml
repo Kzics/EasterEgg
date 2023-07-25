@@ -1,0 +1,17 @@
+claim-cooldown: 30
+
+execute-command: false
+
+#MUST HAVE execute-command to true
+command: "/give 1000"
+
+#MUST HAVE execute-command to false
+give-items:
+  - DIAMOND_SWORD
+
+
+
+claimed-message: "&aYou claimed an egg ! ({current}/{max})"
+claim-cooldown-message: "&cYou already claimed an egg, you have to wait..."
+already-claimed-message: "&cYou already claimed this egg"
+

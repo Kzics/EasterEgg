@@ -1,0 +1,13 @@
+main: com.easteregg.EasterMain
+name: EasterEgg
+version: 1.0.0
+commands:
+  eggs:
+    description: Eggs gui
+    aliases:
+      - eastereggs
+      - eateregg
+  eggreset:
+    description: Reset eggs
+  claimreset:
+    description: reset claim
